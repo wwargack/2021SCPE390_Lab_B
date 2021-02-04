@@ -5,4 +5,6 @@ Student:
 Samuel Schmitt
 =======
 Sebastian LoPiano
+=======
+Kamen Kresnitchki
 >>>>>>> 885851b09fec1538298b67f99ab629a8e766565b
