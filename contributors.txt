@@ -1,8 +1,6 @@
 TA:
 Mingxuan Chen
 Student:
-<<<<<<< HEAD
 Samuel Schmitt
-=======
 Sebastian LoPiano
->>>>>>> 885851b09fec1538298b67f99ab629a8e766565b
+Christopher Kruger
